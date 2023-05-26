@@ -1,7 +1,6 @@
 #include <Ticker.h>
 #include <DHT.h>
 #include <DHT_U.h>
-
 #include <SoftwareSerial.h>
 //******Aire
 #define DHTPIN 4
